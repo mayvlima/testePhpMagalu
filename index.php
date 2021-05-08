@@ -40,7 +40,7 @@
             <div class="container">
                 <div class="masthead-subheading">Welcome To Our Studio!</div>
                 <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://api.whatsapp.com/send?phone=5511967248518&text=Oiiii%2C%20Mayara!!!!">Entre em contato</a>
             </div>
         </header>
         <!-- Services-->
